@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactStash/ToDoApp/static/css/main.9071c875.css",
+    "main.js": "/reactStash/ToDoApp/static/js/main.9152db80.js",
+    "index.html": "/reactStash/ToDoApp/index.html",
+    "main.9071c875.css.map": "/reactStash/ToDoApp/static/css/main.9071c875.css.map",
+    "main.9152db80.js.map": "/reactStash/ToDoApp/static/js/main.9152db80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9071c875.css",
+    "static/js/main.9152db80.js"
+  ]
+}
